@@ -9,3 +9,6 @@ repo_url: https://github.com/kubelinux-io/kubelinux-io.github.io
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2024 Kubelinux Team
+
+theme:
+  name: material
