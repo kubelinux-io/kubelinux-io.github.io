@@ -17,6 +17,62 @@
          <lastmod>2025-07-16</lastmod>
     </url>
     <url>
+         <loc>https://kubelinux.io/formatting/caret.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/critic.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/details.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/emojii.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/highlight.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/keys.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/mermaid.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/progressbar.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/saneheaders.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/smartsymbols.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/superfences.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/tabbed.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/tasklist.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/tilde.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
          <loc>https://kubelinux.io/formatting/blocks/admonition.html</loc>
          <lastmod>2025-07-16</lastmod>
     </url>
@@ -26,6 +82,14 @@
     </url>
     <url>
          <loc>https://kubelinux.io/formatting/blocks/definition.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/blocks/details.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/blocks/tabs.html</loc>
          <lastmod>2025-07-16</lastmod>
     </url>
 </urlset>
