@@ -8,4 +8,24 @@
          <loc>https://kubelinux.io/blog/index.html</loc>
          <lastmod>2025-07-16</lastmod>
     </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/index.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/betterem.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/blocks/admonition.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/blocks/caption.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
+    <url>
+         <loc>https://kubelinux.io/formatting/blocks/definition.html</loc>
+         <lastmod>2025-07-16</lastmod>
+    </url>
 </urlset>
