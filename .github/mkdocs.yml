@@ -47,6 +47,7 @@ markdown_extensions:
   - md_in_html
   - pymdownx.betterem
   - pymdownx.blocks.admonition
+  - pymdownx.blocks.caption
   - pymdownx.blocks.definition
   - pymdownx.blocks.details
   - pymdownx.blocks.tab
@@ -66,7 +67,10 @@ markdown_extensions:
       line_spans: __span
   - pymdownx.inlinehilite
   - pymdownx.keys
+  - pymdownx.magiclink
   - pymdownx.mark
+  - pymdownx.progressbar
+  - pymdownx.saneheaders
   - pymdownx.smartsymbols
   - pymdownx.snippets
   - pymdownx.superfences:
