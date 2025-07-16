@@ -26,9 +26,8 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install \
-              mkdocs-git-committers-plugin-2 \
               mkdocs-git-revision-date-localized-plugin \
               mkdocs-material \
               mkdocs-material[imaging] \
               mike
-      - run: mkdocs gh-deploy --force
+      - run: mkdocs gh-deploy --config-file .github/mkdocs.yml --force
