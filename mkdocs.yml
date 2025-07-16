@@ -1,6 +1,6 @@
 # Project information
-site_name: Kubelinux.site
-site_url: https://kubelinux.site
+site_name: Kubelinux.io
+site_url: https://kubelinux.io/
 site_author: Kubelinux Team
 
 # Repository
@@ -18,5 +18,26 @@ theme:
     view: material/eye
   features:
     - content.action.edit
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tracking
+
+extra:
+  version:
+    provider: mike
 
 edit_uri: edit/main/docs/
+
+plugins:
+  - blog
+  - git-committers:
+      repository: kubelinux-io/kubelinux-io.github.io
+      branch: main
+  - git-revision-date-localized:
+        enable_creation_date: true
+        fallback_to_build_date: true
+  - search
+  - social
+  - tags
