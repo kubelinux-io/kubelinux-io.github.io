@@ -29,5 +29,6 @@ jobs:
               mkdocs-git-committers-plugin-2 \
               mkdocs-git-revision-date-localized-plugin \
               mkdocs-material \
+              mkdocs-material[imaging] \
               mike
       - run: mkdocs gh-deploy --force
